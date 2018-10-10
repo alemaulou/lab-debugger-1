@@ -3,7 +3,7 @@ package edu.info448.calculator
 /**
  * Utility class for Calculator to perform the actual calculations.
  */
-class Calculator {
+class   Calculator {
 
     // Stored number
     private var value: Double = 0.toDouble()
